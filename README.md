@@ -18,4 +18,4 @@ El objetivo de este proyecto es comprender y aplicar la estructura de datos tipo
 ![Ejecución del editor de texto](img.png)
 
 ## Contribuyentes
-* Isaac Daniel Torrenegra Cantillo *
+Isaac Daniel Torrenegra Cantillo
